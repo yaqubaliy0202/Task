@@ -1,0 +1,27 @@
+.avatar {
+	border-radius: 50%;
+}
+
+.flex {
+border: 2px solid blue;	
+margin: 40px;
+padding: 20px;
+box-sizing: border-box;
+border-radius: 20px;
+background-color: rgb(140, 189, 232);
+align-items: center;
+justify-content: space-around;
+}
+h3 {
+	font-size: 35px;
+}
+
+.success {
+	padding: 12px 40px;
+	border-radius: 30px;
+	background-color: rgb(102, 102, 203);
+	border: none;
+}
+.success:hover {
+	background-color: rgb(9, 9, 155);
+}
